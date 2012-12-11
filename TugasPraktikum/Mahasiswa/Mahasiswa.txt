@@ -1,0 +1,5 @@
+001, Andi Pratama, Jakarta
+002, Deni Prayoga,Bekasi
+003, Dana Pradita, Depok
+004, Gandis AStri, Tangerang
+005, Putra Raditya, Jakarata
